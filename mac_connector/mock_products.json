@@ -1,0 +1,46 @@
+[
+  {
+    "codigo": "100001",
+    "nome": "BEN-U-RON 500 mg",
+    "cnpem": "7000001",
+    "cnpem_desig": "Paracetamol 500 mg",
+    "stock_farmacia": 12,
+    "esgotado": "N",
+    "comerc_autoriz": "S",
+    "inativo": "N",
+    "ultima_alteracao": "2026-09-11T14:00:00"
+  },
+  {
+    "codigo": "100002",
+    "nome": "AMOXICILINA 500 mg",
+    "cnpem": "7000002",
+    "cnpem_desig": "Amoxicilina 500 mg",
+    "stock_farmacia": 0,
+    "esgotado": "N",
+    "comerc_autoriz": "S",
+    "inativo": "N",
+    "ultima_alteracao": "2026-09-11T14:00:00"
+  },
+  {
+    "codigo": "100003",
+    "nome": "BRUFEN 400 mg",
+    "cnpem": "7000003",
+    "cnpem_desig": "Ibuprofeno 400 mg",
+    "stock_farmacia": 5,
+    "esgotado": "N",
+    "comerc_autoriz": "S",
+    "inativo": "N",
+    "ultima_alteracao": "2026-09-11T14:00:00"
+  },
+  {
+    "codigo": "100004",
+    "nome": "OMEPRAZOL 20 mg",
+    "cnpem": "7000004",
+    "cnpem_desig": "Omeprazol 20 mg",
+    "stock_farmacia": 2,
+    "esgotado": "N",
+    "comerc_autoriz": "S",
+    "inativo": "N",
+    "ultima_alteracao": "2026-09-11T14:00:00"
+  }
+]
